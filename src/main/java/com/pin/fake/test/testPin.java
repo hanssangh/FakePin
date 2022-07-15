@@ -4,7 +4,7 @@ public class testPin {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("�׽�Ʈ �Դϴ�~~");
+		System.out.println("인코딩 수정");
 	}
 
 }
