@@ -3,8 +3,9 @@ package com.pin.fake.test;
 public class testtest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		System.out.println("이그노어 테스트");
+		
 	}
 
 }
